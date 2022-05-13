@@ -41,7 +41,7 @@ struct TrafficLightView: View {
                             .font(.title)
                             .foregroundColor(.white)
                             .padding()
-                            .background(RoundedRectangle(cornerRadius: 15).fill(Color.blue))
+                            .background(RoundedRectangle(cornerRadius: 20).fill(Color.blue))
                     }
                 }
                 .padding(EdgeInsets(top: 16, leading: 0, bottom: 16, trailing: 0))
